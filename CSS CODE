@@ -1,0 +1,97 @@
+/* index.css */
+
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+  }
+  
+  /* Header styles */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin: 0;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  /* Main content styles */
+  .intro {
+    padding: 20px;
+  }
+  
+  .summary p {
+    margin: 10px 0;
+  }
+  
+  .preamble p {
+    margin-bottom: 20px;
+  }
+  
+  /* Sidebar styles */
+  .sidebar {
+    background-color: #ccc;
+    padding: 20px;
+    color: #333;
+  }
+  
+  .design-name {
+    font-weight: bold;
+  }
+  
+  .designer-name {
+    font-style: italic;
+  }
+  
+  /* Footer styles */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  /* Links styles */
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  
+  
+  .sidebar ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .sidebar li {
+    margin-bottom: 10px;
+  }
+  
+  .design-name {
+    font-size: 18px;
+    color: #0099ff;
+    margin-right: 10px;
+  }
+  
+  .designer-name {
+    font-size: 16px;
+    color: #777;
+  }
+  
+  
